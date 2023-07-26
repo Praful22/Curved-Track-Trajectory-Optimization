@@ -1,5 +1,5 @@
 # Curved Track Trajectory Optimization
-
+Trajectory optimization using IPOPT solver.
 <img src="https://github.com/av-course/HW2/blob/main/CurvedTrackTrajectoryOptimization.gif" />
 
 The project task is to work on the curved-track, and create the trajectory optimization procedure in a manner that adheres to the curved lane boundaries using IPOPT solver.
