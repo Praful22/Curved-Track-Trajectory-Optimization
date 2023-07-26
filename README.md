@@ -16,4 +16,4 @@ Final Product:
  
 # Working Trajectory
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gZKNetK9b8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<img src="https://github.com/Praful22/CurvedTrackTrajectoryOptimization/main/mpc_circle_animation.gif" />
