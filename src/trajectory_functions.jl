@@ -9,9 +9,9 @@ one of the 5 callbacks which constitute an IPOPT problem:
 
 Xⁱ is the vehicle_state of vehicle i at the start of the trajectory (t=0)
 rⁱ is the radius of the i-th vehicle.
-(aⁱ, bⁱ) define a halfpsace representing one of the two lane boundaries. 
+(aⁱ, bⁱ) define a half-space representing one of the two-lane boundaries. 
 
-The purpose of this function is to construct functions which can quickly turn 
+The purpose of this function is to construct functions that can quickly turn 
 updated world information into planning problems that IPOPT can solve.
 """
 function create_callback_generator(trajectory_length=40, timestep=0.2, R = Diagonal([0.1, 0.5]), max_vel=10.0)
@@ -119,7 +119,6 @@ end
 """
 The physics model used for motion planning purposes.
 Returns X[k] when inputs are X[k-1] and U[k]. 
-Uses a slightly different vehicle model than presented in class for technical reasons.
 """
 function evolve_state(X, U, Δ)
     V = X[3] + Δ * U[1] 
