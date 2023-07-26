@@ -16,4 +16,4 @@ Final Product:
  
 # Working Trajectory
 
-<img src="https://github.com/Praful22/CurvedTrackTrajectoryOptimization/main/mpc_circle_animation.gif" />
+<img src="https://github.com/Praful22/CurvedTrackTrajectoryOptimization/blob/main/mpc_circle_animation.gif" />
