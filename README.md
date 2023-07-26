@@ -14,3 +14,6 @@ Assumptions: In the Curved lane world, the other vehicles on the road will devia
 Final Product:
  A video/gif demonstrating resulting trajectory planner working on the cirlce track. 
  
+# Working Trajectory
+
+<img src="https://www.youtube.com/watch?v=gZKNetK9b8c&ab_channel=PrafulSigdel" />
