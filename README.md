@@ -1,5 +1,4 @@
-# HW2
-Curved Track Trajectory Optimization
+# Curved Track Trajectory Optimization
 
 <img src="https://github.com/av-course/HW2/blob/main/CurvedTrackTrajectoryOptimization.gif" />
 
