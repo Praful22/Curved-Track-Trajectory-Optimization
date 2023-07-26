@@ -2,7 +2,7 @@
 
 <img src="https://github.com/av-course/HW2/blob/main/CurvedTrackTrajectoryOptimization.gif" />
 
-The project task is to work on the curved-track, and create the trajectory optimization procedure in a manner that adheres to the curved lane boundaries using IFOPT solver.
+The project task is to work on the curved-track, and create the trajectory optimization procedure in a manner that adheres to the curved lane boundaries using IPOPT solver.
 
 Objectives:
 1. Formulation and expression of circular lane-boundary constraint. 
