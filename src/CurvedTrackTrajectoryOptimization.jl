@@ -13,4 +13,4 @@ using GLMakie.GeometryBasics
 include("trajectory_functions.jl")
 include("generate_trajectory.jl")
 
-end # module HW2
+end
